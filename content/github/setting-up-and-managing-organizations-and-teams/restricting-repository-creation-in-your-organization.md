@@ -19,7 +19,7 @@ Organization owners can always create any type of repository.
 
 **Warning**: This setting only restricts the visibility options available when repositories are created and does not restrict the ability to change repository visibility at a later time. For more information about restricting changes to existing repositories' visibilities, see "[Restricting repository visibility changes in your organization](/github/setting-up-and-managing-organizations-and-teams/restricting-repository-visibility-changes-in-your-organization)."
 
-{% endwarning %}
+{% endwarning %r}
 
 {% data reusables.organizations.internal-repos-enterprise %}
 
